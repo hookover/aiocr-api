@@ -52,7 +52,7 @@ MYSQL事件+存储过程 自动统计每个用户/开发工程师每天产生的
     自增ID采用2个数据字段存储，并使用联合索引提升性能
 
     
-### 安装
+## 安装
     1、 为php安装此扩展 https://github.com/hookover/php_snowflake.git
     2、 克隆此代码并composer安装代码依赖
     3、 配置nginx/apache 参考lumen的配置
